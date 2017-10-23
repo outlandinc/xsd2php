@@ -57,5 +57,8 @@
   },
   "bin": [
     "bin/xsd2php"
-  ]
+  ],
+  "config": {
+    "github-protocols": ["http"]
+  }
 }
