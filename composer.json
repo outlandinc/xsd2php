@@ -59,6 +59,6 @@
     "bin/xsd2php"
   ],
   "config": {
-    "github-protocols": ["http"]
+    "github-protocols": ["https"]
   }
 }
