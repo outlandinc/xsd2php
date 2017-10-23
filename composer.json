@@ -32,7 +32,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/SignpostMarv/xsd-reader.git"
+      "url": "https://github.com/SignpostMarv/xsd-reader"
     }
   ],
   "require-dev": {
